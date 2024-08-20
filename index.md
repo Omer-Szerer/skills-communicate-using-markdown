@@ -14,3 +14,7 @@ this is a code example!
 ``` js
 let codeExample = 'Hey!';
 ```
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
